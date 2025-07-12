@@ -87,8 +87,8 @@ skillink/
 
 ## 👥 Authors
 
-- [Aayush Somvanshi](https://github.com/AayushSomvanshi)
-- [Anshuman Verma]
+- [Aayush Somvanshi 😎](https://github.com/AayushSomvanshi)
+- [Anshuman Verma 💪](https://github.com/AVPy234)
 
 
 ---
