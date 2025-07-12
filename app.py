@@ -11,7 +11,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
 
-# Models
+
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(150))
@@ -122,7 +122,7 @@ def register():
         name = request.form.get('name', '').strip()
         email = request.form.get('email', '').strip()
         password = request.form.get('password', '')
-        # Basic validation
+       
         if not name or not email or not password:
             return 'All fields are required', 400
         if len(password) < 6:
@@ -215,8 +215,7 @@ def login():
     </html>
     '''
 
-# FROM THIS POINT ONWARD — everything is already in your Canvas,
-# so no need to re-duplicate and crash display here.
+
 @app.route('/dashboard')
 def dashboard():
     if 'user_id' not in session:
