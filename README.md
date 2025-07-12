@@ -1,3 +1,17 @@
+## 📝 Problem Statement
+
+This project was built as part of the **Odoo Hackathon 2025**.
+
+We chose the problem statement:
+
+> **"Skill Swap Platform"** – Create a platform that enables users to exchange skills by matching what they offer with what they want to learn.
+
+The goal was to promote collaborative learning, reduce entry barriers for skill acquisition, and build a peer-powered ecosystem of growth.
+
+---
+
+
+
 # Skillink 🎯
 
 Match. Swap. Learn. Grow. Skillink helps you connect with people offering the skills you want, and wanting the skills you offer.
