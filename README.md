@@ -2,11 +2,13 @@
 
 Skillink is a lightweight skill-swapping platform where users can register, offer their skills, request others', and grow together — all powered by Flask.
 
-## 🌐 Live Demo
-🚀 [Add your deployed link here once hosted]
+
 
 ## 📸 Screenshots
-*Coming soon* (or paste dashboard/home screenshots here)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9802d0b6-339f-4816-b560-56caf95d2342" />
+
+
+
 
 ---
 
