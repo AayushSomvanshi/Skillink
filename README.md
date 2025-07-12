@@ -1,6 +1,8 @@
 # Skillink 🎯
 
-Skillink is a lightweight skill-swapping platform where users can register, offer their skills, request others', and grow together — all powered by Flask.
+Match. Swap. Learn. Grow. Skillink helps you connect with people offering the skills you want, and wanting the skills you offer.
+
+Skillink is a lightweight skill-swapping platform where users can register, offer their skills, request others', and grow together. 
 
 
 
