@@ -24,6 +24,15 @@ Skillink is a lightweight skill-swapping platform where users can register, offe
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9802d0b6-339f-4816-b560-56caf95d2342" />
 
 
+---
+
+## Presentation Video
+
+ <a href="https://drive.google.com/file/d/1ijC2zQXR8mbMJh8KAPAUfou9JSH1ml4q/view?usp=drive_link" target="_blank">
+  <img width="800" alt="Demo Video" src="https://github.com/user-attachments/assets/ee1d0850-a3e2-4cab-acae-7fba1b3372f0" />
+</a>
+
+<p align="center"><b>🎬 Click the image above to watch the video</b></p>
 
 
 ---
