@@ -64,7 +64,7 @@ Skillink is a lightweight skill-swapping platform where users can register, offe
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/skillink.git
+   git clone https://github.com/AayushSomvanshi/skillink.git
    cd skillink
    ```
 
